@@ -11,4 +11,3 @@ we have 20 columns, each column represents a different aspect or measure of the 
 The goal of the project is to understand this dataset, 
 get some insights from it, and finally to train a model that can predict GDP per capita for each country.
 
-!(https://github.com/anujtech313/Countries-Gdp-prediction/blob/main/regional-average-gdp-per-capita.png)
